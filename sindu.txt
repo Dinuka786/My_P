@@ -7,3 +7,4 @@ hi  branch push
 hi linux branch push
 hi testibg everwhere
 hi bois
+hi rebase local
