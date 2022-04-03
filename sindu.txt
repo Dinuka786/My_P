@@ -9,8 +9,3 @@ hi testibg everwhere
 hi bois
 git rebase test
 git rebase testing failed and try RE,OTE
-<<<<<<< HEAD
-git ongoing crisis local
-=======
-git ongoing crisis remote
->>>>>>> 8902fb2bd1d573179dfc94f7bb6af16b3e43cd0a
